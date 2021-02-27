@@ -1,0 +1,2 @@
+btn_username=.//*[@id=\"identifierId\"]
+btn_Next=.//*[@id=\"identifierNext\"]/content/span
